@@ -98,7 +98,6 @@ You can follow similar steps for AWS (using **Elastic Beanstalk**) or Azure (usi
 ## 📚 Resources and References
 
 <div align="center">
-  <h1><a href="https://github.com/0res7/ml-basics">Learn ML Basics</a></h1>
   <img alt="GIF" src="Resources/python.gif" />
 </div>
 
@@ -122,6 +121,5 @@ For a deeper understanding of AI, machine learning, and data science, I recommen
 
 
 <div align="center">
-  <h1><a href="https://github.com/0res7/ml-basics">Learn ML Basics</a></h1>
   <img alt="GIF" src="Resources/busy-work.gif" />
 </div>
