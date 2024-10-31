@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="banner.png" alt="Banner" />
+</div>
+
+
+
+<div align="center">
   <h1><a href="https://github.com/0res7/ml-basics">Learn ML Basics</a></h1>
   <img alt="GIF" src="Resources/roll.gif" />
 </div>
