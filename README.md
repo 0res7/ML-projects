@@ -44,6 +44,9 @@ This repository includes a wide range of technologies and tools used in various 
   - Deployed apps using Flask
   - Git and GitHub for version control
 
+<div align="left">
+  <img alt="GIF" src="Resources/pac.gif" />
+</div>
 
 ## 📊 Project Structure
 
