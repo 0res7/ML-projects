@@ -1,0 +1,6 @@
+TensorFlow
+Keras
+opencv-python  # OpenCV (cv2)
+tkinter  # Tkinter (Note: usually included with Python, may not be necessary)
+numpy
+pandas
