@@ -131,6 +131,7 @@ For a deeper understanding of AI, machine learning, and data science, I recommen
 
 - The wonderful **Kaggle** community, which provided open datasets and insightful discussions.
 - **Udemy**, **Coursera**, and **edX** instructors who have helped me build a solid foundation in AI.
+- **ChatGPT** and its GPT buddies, for answering all my silly questions and being my AI BFFs 🤖😂💡, keeping me company when coffee couldn't ☕😉!
 
 
 <div align="center">
