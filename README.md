@@ -123,9 +123,9 @@ You can follow similar steps for AWS (using **Elastic Beanstalk**) or Azure (usi
 - **PyTorch Documentation**: [Pytorch.org](https://pytorch.org/docs/)
 
 For a deeper understanding of AI, machine learning, and data science, I recommend the following courses:
-- **Coursera - Machine Learning by Andrew Ng**
-- **Udacity - AI for Everyone**
-- **Kaggle Learn - Data Science**
+- **Coursera : What is Data Science?**
+- **Kaggle Learn : Data Science**
+- **Jovian AI : Beginner-Friendly**
 
 ## ⭐ Acknowledgments
 
