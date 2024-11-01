@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="Resources/banner.png" alt="Banner" />
+</div>
+
+
+
+<div align="center">
   <h1><a href="https://github.com/0res7/ml-basics">Learn ML Basics</a></h1>
   <img alt="GIF" src="Resources/roll.gif" />
 </div>
@@ -38,6 +44,9 @@ This repository includes a wide range of technologies and tools used in various 
   - Deployed apps using Flask
   - Git and GitHub for version control
 
+<div align="center">
+  <img alt="GIF" src="Resources/pac.gif" />
+</div>
 
 ## 📊 Project Structure
 
@@ -59,6 +68,10 @@ ProjectName/
 Feel free to explore individual projects to understand the data flow and code structure.
 
 ---
+
+<div align="center">
+  <img alt="GIF" src="Resources/mario.gif" />
+</div>
 
 ## 🌍 Deployment
 
@@ -98,7 +111,6 @@ You can follow similar steps for AWS (using **Elastic Beanstalk**) or Azure (usi
 ## 📚 Resources and References
 
 <div align="center">
-  <h1><a href="https://github.com/0res7/ml-basics">Learn ML Basics</a></h1>
   <img alt="GIF" src="Resources/python.gif" />
 </div>
 
@@ -111,17 +123,17 @@ You can follow similar steps for AWS (using **Elastic Beanstalk**) or Azure (usi
 - **PyTorch Documentation**: [Pytorch.org](https://pytorch.org/docs/)
 
 For a deeper understanding of AI, machine learning, and data science, I recommend the following courses:
-- **Coursera - Machine Learning by Andrew Ng**
-- **Udacity - AI for Everyone**
-- **Kaggle Learn - Data Science**
+- **Coursera : What is Data Science?**
+- **Kaggle Learn : Data Science**
+- **Jovian AI : Beginner-Friendly**
 
 ## ⭐ Acknowledgments
 
 - The wonderful **Kaggle** community, which provided open datasets and insightful discussions.
-- **Udemy**, **Coursera**, and **edX** instructors who have helped me build a solid foundation in AI.
+- **Jovian**, **Coursera**, and **edX** instructors who have helped me build a solid foundation in AI.
+- **ChatGPT** and its GPT buddies, for answering all my silly questions and being my AI BFFs 🤖😂💡, keeping me company when coffee couldn't ☕😉!
 
 
 <div align="center">
-  <h1><a href="https://github.com/0res7/ml-basics">Learn ML Basics</a></h1>
   <img alt="GIF" src="Resources/busy-work.gif" />
 </div>
