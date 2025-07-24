@@ -1,9 +1,41 @@
-TensorFlow
-Keras
-opencv-python  # OpenCV (cv2)
-tkinter  # Tkinter (Note: usually included with Python, may not be necessary)
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+# This file contains the Python dependencies for all the projects in this repository.
+
+# Core Libraries
+numpy>=1.19.3  # Fundamental package for scientific computing with Python.
+pandas>=0.19  # Powerful data structures for data analysis, time series, and statistics.
+matplotlib>=1.4.3  # Comprehensive library for creating static, animated, and interactive visualizations in Python.
+seaborn  # Statistical data visualization library based on matplotlib.
+scikit-learn>=0.18  # Simple and efficient tools for predictive data analysis.
+
+# Deep Learning
+tensorflow==1.5  # An end-to-end open source platform for machine learning.
+keras==1.1.0  # High-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+torch==2.7.1  # An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+torchvision==0.9.1  # Part of the PyTorch project. It consists of popular datasets, model architectures, and common image transformations for computer vision.
+pytorch_lightning==1.3.3  # The lightweight PyTorch wrapper for high-performance AI research.
+# Note: torchtext is also listed as a dependency, but it is part of the torch library.
+
+# Web Development
+Flask==2.2.5  # A lightweight WSGI web application framework.
+gunicorn==19.9.0  # A Python WSGI HTTP Server for UNIX.
+itsdangerous==1.1.0  # A safe way to serialize data for untrusted environments.
+Jinja2==2.11.3  # A modern and designer-friendly templating language for Python.
+MarkupSafe==1.1.1  # A library for Python that implements a unicode string that is aware of HTML escaping rules.
+Werkzeug==2.2.3  # A comprehensive WSGI web application library.
+Flask-Bootstrap==3.3.7.1  # An extension that includes Bootstrap in your Flask application.
+Flask-Uploads==0.2.1  # An extension for Flask that helps you handle file uploads.
+
+# Computer Vision
+opencv-python==4.2.0.32  # The OpenCV library for Python.
+
+# Natural Language Processing
+nltk  # A leading platform for building Python programs to work with human language data.
+
+# Other
+pygame  # A cross-platform set of Python modules designed for writing video games.
+fuzzywuzzy # Fuzzy string matching library.
+python-Levenshtein # C implementation of Levenshtein distance and edit operations.
+xgboost # Optimized distributed gradient boosting library.
+scipy>=0.15.1 # A Python-based ecosystem of open-source software for mathematics, science, and engineering.
+pyyaml==5.4 # A YAML parser and emitter for Python.
+# tkinter is part of the standard Python library and does not need to be installed separately.

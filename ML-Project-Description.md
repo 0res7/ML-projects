@@ -12,8 +12,7 @@
 * [Colorize Black & white images](#11-Colorize-Black--white-images)
 * [Distracted Driver Detection](#12-Distracted-Driver-Detection)
 * [Drowsiness detection](#13-Drowsiness-detection)
-* [Cardio-Monitor](#14-Cardio-Monitor)
-* [Human Detection & Counting](#15-Human-Detection--Counting)
+* [Human Detection & Counting](#14-Human-Detection--Counting)
 * [Mechanisms Of Action (MoA) Prediction](#16-Mechanisms-Of-Action-(MoA)-Prediction)
 * [Medical Chatbot](#17-Medical-Chatbot)
 * [Predicting Property Maintenance Fines](#18-Predicting-Property-Maintenance-Fines)
@@ -148,16 +147,7 @@
 - If drowsiness is detected, an alarm is triggered to alert the driver.
 ##
 
-### 14. [Cardio-Monitor](https://github.com/shsarv/Cardio-Monitor)
-| [Live Project](https://github.com/shsarv/Cardio-Monitor) |
-|----|
-
-- Cardio Monitor is a web app that helps you to find out whether you are at risk of developing heart disease.
-- The model used for prediction has an accuracy of 92%.
-- This is the course project of subject Big Data Analytics (BCSE0158).
-##
-
-### 15. [Human Detection & Counting](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D)
+### 14. [Human Detection & Counting](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D)
 | [Python Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D/human-counting-project-code.py) |
 |----|
 
@@ -165,7 +155,7 @@
 - It uses OpenCV for image and video processing.
 ##
 
-### 16. [Mechanisms Of Action (MoA) Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction)
+### 15. [Mechanisms Of Action (MoA) Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction/MOA.ipynb) |
 |----|
 
@@ -173,7 +163,7 @@
 - Since drugs can have multiple MoA annotations, the task is formally a multi-label classification problem.
 ##
 
-### 17. [Medical Chatbot](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D)
+### 16. [Medical Chatbot](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D)
 | [Python Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D/app.py) |
 |----|
 
@@ -181,7 +171,7 @@
 - It is built using Flask, PyTorch, NLTK, and Scikit-learn.
 ##
 
-### 18. [Predicting Property Maintenance Fines](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predicting%20Property%20Maintenance%20Fines)
+### 17. [Predicting Property Maintenance Fines](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predicting%20Property%20Maintenance%20Fines)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Predicting%20Property%20Maintenance%20Fines/Predicting%20Property%20Maintainance%20Fines.ipynb) |
 |----|
 
@@ -189,7 +179,7 @@
 - This is based on a data challenge from the Michigan Data Science Team (MDST).
 ##
 
-### 19. [Research topic Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Research%20topic%20Prediction)
+### 18. [Research topic Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Research%20topic%20Prediction)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Research%20topic%20Prediction/Research-topic-Prediction.ipynb) |
 |----|
 
@@ -198,7 +188,7 @@
 - The research article abstracts and titles are sourced from the following 6 topics: Computer Science, Physics, Mathematics, Statistics, Quantitative Biology, Quantitative Finance.
 ##
 
-### 20. [TimeSeries Multi StoreSales prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/TimeSeries%20Multi%20StoreSales%20prediction)
+### 19. [TimeSeries Multi StoreSales prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/TimeSeries%20Multi%20StoreSales%20prediction)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/TimeSeries%20Multi%20StoreSales%20prediction/Time%20Series%20Regression%20-%20Multi-Store%20Sales.ipynb) |
 |----|
 
@@ -206,7 +196,7 @@
 - We are asking you to predict total sales for every product and store in the next month.
 ##
 
-### 21. [emoji creator project](https://github.com/shsarv/Machine-Learning-Projects/tree/main/emoji%20creator%20project%20%5BOPEN%20CV%5D)
+### 20. [emoji creator project](https://github.com/shsarv/Machine-Learning-Projects/tree/main/emoji%20creator%20project%20%5BOPEN%20CV%5D)
 | [GUI Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/emoji%20creator%20project%20%5BOPEN%20CV%5D/gui.py) | [Model Training](https://github.com/shsarv/Machine-Learning-Projects/blob/main/emoji%20creator%20project%20%5BOPEN%20CV%5D/train.py) |
 |----|----|
 
