@@ -19,33 +19,33 @@ Welcome to the **Machine Learning Projects Repository**! This collection encompa
 
 ```mermaid
 graph TD
-  A[ML-projects Repository]
-  A --> B[Business Email Automation]
-  A --> C[BRAIN TUMOR DETECTION]
-  A --> D[Classification of Arrhythmia]
-  A --> E[Colorize Black & white images]
-  A --> F[Diabetes Prediction]
-  A --> G[Distracted Driver Detection]
-  A --> H[Drowsiness detection]
-  A --> I[Gender and age detection]
-  A --> J[Getting Admission in College Prediction]
-  A --> K[Heart Disease Prediction]
-  A --> L[Human Activity Detection]
-  A --> M[IPL Score Prediction]
-  A --> N[Iris Flower Classification]
-  A --> O[Loan Repayment Prediction]
-  A --> P[Mechanisms Of Action Prediction]
-  A --> Q[Medical Chatbot]
-  A --> R[Predicting Property Maintenance Fines]
-  A --> S[Research topic Prediction]
-  A --> T[Smile Selfie Capture Project]
-  A --> U[TimeSeries Multi StoreSales prediction]
-  A --> V[Wine Quality prediction]
-  A --> W[HiringChallenges]
-  W --> W1[water_potability]
-  W --> W2[triglyceride_prediction]
-  A --> X[AI Room Booking Chatbot]
-  A --> Y[...Other Projects]
+    A[ML-projects Repository]
+    A --> B(Business Email Automation)
+    A --> C(BRAIN TUMOR DETECTION)
+    A --> D(Classification of Arrhythmia)
+    A --> E(Colorize Black & white images)
+    A --> F(Diabetes Prediction)
+    A --> G(Distracted Driver Detection)
+    A --> H(Drowsiness detection)
+    A --> I(Gender and age detection)
+    A --> J(Getting Admission in College Prediction)
+    A --> K(Heart Disease Prediction)
+    A --> L(Human Activity Detection)
+    A --> M(IPL Score Prediction)
+    A --> N(Iris Flower Classification)
+    A --> O(Loan Repayment Prediction)
+    A --> P(Mechanisms Of Action Prediction)
+    A --> Q(Medical Chatbot)
+    A --> R(Predicting Property Maintenance Fines)
+    A --> S(Research topic Prediction)
+    A --> T(Smile Selfie Capture Project)
+    A --> U(TimeSeries Multi StoreSales prediction)
+    A --> V(Wine Quality prediction)
+    A --> W{HiringChallenges}
+    W --> W1(water_potability)
+    W --> W2(triglyceride_prediction)
+    A --> X(AI Room Booking Chatbot)
+    A --> Y(...Other Projects)
 ```
 
 ---
@@ -57,13 +57,13 @@ Here’s a detailed list of all projects included in this repository:
 | Project Name                                        | Description                                                                                          | Main Notebook                                                                                                                                            |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Business Email Automation (LLM, RAG, Google Sheets) | Business email classification and response automation using LLMs, RAG, and Google Sheets integration | [Copy of Solve Business Problems with AI.ipynb](AI-assessment/Copy%20of%20Solve%20Business%20Problems%20with%20AI.ipynb)                                    |
-| BRAIN TUMOR DETECTION [END 2 END]                   | Flask web app for brain tumor detection from MRI using PyTorch                                       | (see project folder)                                                                                                                                     |
+| BRAIN TUMOR DETECTION [END 2 END]                   | Flask web app for brain tumor detection from MRI using PyTorch                                       | [app.py](BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D/app.py)                                                                                           |
 | Classification of Arrhythmia [ECG DATA]             | Arrhythmia classification using multiple ML models and PCA                                           | [final with pca.ipynb](Classification%20of%20Arrhythmia%20%5BECG%20DATA%5D/final%20with%20pca.ipynb)                                                        |
 | Colorize Black & white images [OPEN CV]             | Image colorization using OpenCV and deep learning                                                    | [Colorize_Black_and_White_Image.ipynb](Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D/Colorize_Black_and_White_Image.ipynb)                      |
 | Diabetes Prediction [END 2 END]                     | Diabetes prediction and deployment as a web app                                                      | [Diabetes Classification.ipynb](Diabetes%20Prediction%20%5BEND%202%20END%5D/Diabetes%20Classification.ipynb)                                                |
 | Distracted Driver Detection                         | Driver activity classification from images                                                           | [Distrated Driver detection.ipynb](Distracted%20Driver%20Detection/Distrated%20Driver%20detection.ipynb)                                                    |
-| Drowsiness detection [OPEN CV]                      | Real-time driver drowsiness detection using webcam and CNN                                           | (see project folder)                                                                                                                                     |
-| Gender and age detection using deep learning        | Age and gender prediction from images                                                                | (see project folder)                                                                                                                                     |
+| Drowsiness detection [OPEN CV]                      | Real-time driver drowsiness detection using webcam and CNN                                           | [drowsinessdetection.py](Drowsiness%20detection%20%5BOPEN%20CV%5D/drowsinessdetection.py)                                                                  |
+| Gender and age detection using deep learning        | Age and gender prediction from images                                                                | [gad.py](Gender%20and%20age%20detection%20using%20deep%20learning/gad.py)                                                                                 |
 | Getting Admission in College Prediction             | Admission prediction using tabular data                                                              | [Admission prediction.ipynb](Getting%20Admission%20in%20College%20Prediction/Admission%20prediction.ipynb)                                                  |
 | Heart Disease Prediction [END 2 END]                | Heart disease prediction using ML                                                                    | [Heart Disease Prediction.ipynb](Heart%20Disease%20Prediction%20%5BEND%202%20END%5D/Heart%20Disease%20Prediction.ipynb)                                     |
 | Human Activity Detection                            | Human action recognition using LSTM and Detectron2                                                   | [Human_Activity_Recogination.ipynb](Human%20Activity%20Detection/Human_Activity_Recogination.ipynb)                                                         |
@@ -74,12 +74,12 @@ Here’s a detailed list of all projects included in this repository:
 | Medical Chatbot [END 2 END] [NLP]                   | End-to-end medical chatbot using NLP                                                                 | [Meddy.ipynb](Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D/Meddy.ipynb)                                                                              |
 | Predicting Property Maintenance Fines               | Regression/classification for property fines                                                         | [Predicting Property Maintainance Fines.ipynb](Predicting%20Property%20Maintenance%20Fines/Predicting%20Property%20Maintainance%20Fines.ipynb)              |
 | Research topic Prediction                           | Research topic classification                                                                        | [Research-topic-Prediction.ipynb](Research%20topic%20Prediction/Research-topic-Prediction.ipynb)                                                            |
-| Smile Selfie Capture Project  [OPEN CV]             | Smile detection and selfie capture                                                                   | (see project folder)                                                                                                                                     |
+| Smile Selfie Capture Project  [OPEN CV]             | Smile detection and selfie capture                                                                   | [main.py](Smile%20Selfie%20Capture%20Project%20%20%5BOPEN%20CV%5D/main.py)                                                                                 |
 | TimeSeries Multi StoreSales prediction              | Multi-store sales time series forecasting                                                            | [Time Series Regression - Multi-Store Sales.ipynb](TimeSeries%20Multi%20StoreSales%20prediction/Time%20Series%20Regression%20-%20Multi-Store%20Sales.ipynb) |
 | Wine Quality prediction                             | Wine quality regression/classification                                                               | [Wine.ipynb](Wine%20Quality%20prediction/Wine.ipynb)                                                                                                        |
-| HiringChallenges/water_potability                   | Water potability prediction (hiring challenge)                                                       | (see project folder)                                                                                                                                     |
-| HiringChallenges/triglyceride_prediction            | Triglyceride level regression (hiring challenge)                                                     | (see project folder)                                                                                                                                     |
-| AI Room Booking Chatbot [IBM WATSON]                | Room booking chatbot using IBM Watson                                                                | (see project folder)br                                                                                                                                   |
+| HiringChallenges/water_potability                   | Water potability prediction (hiring challenge)                                                       | [code.py](HiringChallenges/water_potability/code.py)                                                                                                     |
+| HiringChallenges/triglyceride_prediction            | Triglyceride level regression (hiring challenge)                                                     | [main.py](HiringChallenges/triglyceride_prediction/main.py)                                                                                              |
+| AI Room Booking Chatbot [IBM WATSON]                | Room booking chatbot using IBM Watson                                                                | [IBM_Cloud_Function.py](AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D/IBM_Cloud_Function.py)                                                          |
 
 ## Technologies Used
 
@@ -106,18 +106,17 @@ This repository includes a wide range of technologies and tools used in various 
 
 Each project follows a consistent structure for easy navigation and understanding:
 
-```plaintext
+```
 ProjectName/
-│
-├── data/                  # Data files and datasets
-├── notebooks/             # Jupyter notebooks for experimentation and prototyping
-├── models/                # Trained machine learning models (if applicable)
-├── static/                # Static files (CSS, JS, images for Flask-based projects)
-├── templates/             # HTML templates (for Flask-based projects)
-├── src/                   # Core Python scripts for data preprocessing, model training, etc.
-├── app.py                 # Main application file for Flask-based projects
-├── README.md              # Project-specific readme file
-└── requirements.txt       # List of dependencies for the project
+├── data/                  # Data files
+├── notebooks/             # Jupyter notebooks
+├── models/                # Trained models
+├── static/                # Static files (for Flask)
+├── templates/             # HTML templates (for Flask)
+├── src/                   # Source code
+├── app.py                 # Main application file
+├── README.md              # Project-specific README
+└── requirements.txt       # Dependencies
 ```
 
 Feel free to explore individual projects to understand the data flow and code structure.
@@ -177,9 +176,9 @@ You can follow similar steps for AWS (using **Elastic Beanstalk**) or Azure (usi
 
 For a deeper understanding of AI, machine learning, and data science, I recommend the following courses:
 
-- **Coursera : What is Data Science?**
-- **Kaggle Learn : Data Science**
-- **Jovian AI : Beginner-Friendly**
+- **Coursera**: What is Data Science?
+- **Kaggle Learn**: Data Science
+- **Jovian AI**: Beginner-Friendly
 
 
 
@@ -202,4 +201,5 @@ See CONTRIBUTING.md for guidelines.
   <img alt="GIF" src="Resources/busy-work.gif" />
 </div>
 
-<style>#mermaid-1753348985451{font-family:sans-serif;font-size:16px;fill:#333;}#mermaid-1753348985451 .error-icon{fill:#552222;}#mermaid-1753348985451 .error-text{fill:#552222;stroke:#552222;}#mermaid-1753348985451 .edge-thickness-normal{stroke-width:2px;}#mermaid-1753348985451 .edge-thickness-thick{stroke-width:3.5px;}#mermaid-1753348985451 .edge-pattern-solid{stroke-dasharray:0;}#mermaid-1753348985451 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-1753348985451 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-1753348985451 .marker{fill:#333333;}#mermaid-1753348985451 .marker.cross{stroke:#333333;}#mermaid-1753348985451 svg{font-family:sans-serif;font-size:16px;}#mermaid-1753348985451 .label{font-family:sans-serif;color:#333;}#mermaid-1753348985451 .label text{fill:#333;}#mermaid-1753348985451 .node rect,#mermaid-1753348985451 .node circle,#mermaid-1753348985451 .node ellipse,#mermaid-1753348985451 .node polygon,#mermaid-1753348985451 .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-1753348985451 .node .label{text-align:center;}#mermaid-1753348985451 .node.clickable{cursor:pointer;}#mermaid-1753348985451 .arrowheadPath{fill:#333333;}#mermaid-1753348985451 .edgePath .path{stroke:#333333;stroke-width:1.5px;}#mermaid-1753348985451 .flowchart-link{stroke:#333333;fill:none;}#mermaid-1753348985451 .edgeLabel{background-color:#e8e8e8;text-align:center;}#mermaid-1753348985451 .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#mermaid-1753348985451 .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#mermaid-1753348985451 .cluster text{fill:#333;}#mermaid-1753348985451 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:sans-serif;font-size:12px;background:hsl(80,100%,96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-1753348985451:root{--mermaid-font-family:sans-serif;}#mermaid-1753348985451:root{--mermaid-alt-font-family:sans-serif;}#mermaid-1753348985451 flowchart-v2{fill:apa;}</style>
+<style>#mermaid-1753348985451{font-family:sans-serif;font-size:16px;fill:#333;}#mermaid-1753348985451 .error-icon{fill:#552222;}#mermaid-1753348985451 .error-text{fill:#552222;stroke:#552222;}#mermaid-1753348985451 .edge-thickness-normal{stroke-width:2px;}#mermaid-1753348985451 .edge-thickness-thick{stroke-width:3.5px;}#mermaid-1753348985451 .edge-pattern-solid{stroke-dasharray:0;}#mermaid-1753348985451 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-1753348985451 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-1753348985451 .marker{fill:#333333;}#mermaid-1753348985451 .marker.cross{stroke:#333333;}#mermaid-1753348985451 svg{font-family:sans-serif;font-size:16px;}#mermaid-1753348985451 .label{font-family:sans-serif;color:#333;}#mermaid-1753348985451 .label text{fill:#333;}#mermaid-1753348985451 .node rect,#mermaid-1753348985451 .node circle,#mermaid-1753348985451 .node ellipse,#mermaid-1753348985451 .node polygon,#mermaid-1753348985451 .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-1753348985451 .node .label{text-align:center;}#mermaid-1753348985451 .node.clickable{cursor:pointer;}#mermaid-1753348985451 .arrowheadPath{fill:#333333;}#mermaid-1753348985451 .edgePath .path{stroke:#333333;stroke-width:1.5px;}#mermaid-1753348985451 .flowchart-link{stroke:#333333;fill:none;}#mermaid-1753348985451 .edgeLabel{background-color:#e8e8e8;text-align:center;}#mermaid-1753348985451 .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#merm
+aid-1753348985451 .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#mermaid-1753348985451 .cluster text{fill:#333;}#mermaid-1753348985451 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:sans-serif;font-size:12px;background:hsl(80,100%,96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-1753348985451:root{--mermaid-font-family:sans-serif;}#mermaid-1753348985451:root{--mermaid-alt-font-family:sans-serif;}#mermaid-1753348985451 flowchart-v2{fill:apa;}</style>
