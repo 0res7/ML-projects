@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Karachi
+X-LIC-LOCATION:Asia/Karachi
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:GMT+5
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Karachi:20250106T163000
+DTEND;TZID=Asia/Karachi:20250106T170000
+DTSTAMP:20250102T065653Z
+ORGANIZER;CN=Muhammad Javed:mailto:javed.kansi@aurea.com
+UID:duilce9l63etbg242k3u7rf5qs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Muhammad Javed;X-NUM-GUESTS=0:mailto:javed.kansi@aurea.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=saigajula997@gmail.com;X-NUM-GUESTS=0:mailto:saigajula997@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-247762215
+CREATED:20250102T065651Z
+DESCRIPTION:Event Name: Crossover Interview\n\nThe calendar only allows sch
+ eduling 6 days in advance. If you are unable to find an open time slot for 
+ the interview\, please try again later or contact us via chat.\n\nPhone Num
+ ber: +91 87885 44926\n\nNeed to make changes to this event?\nCancel: https:
+ //calendly.com/cancellations/32cbb54a-bc7a-4dfd-b2b7-7ea21c686cf6\nReschedu
+ le: https://calendly.com/reschedulings/32cbb54a-bc7a-4dfd-b2b7-7ea21c686cf6
+ \n\nPowered by Calendly.com\n
+LAST-MODIFIED:20250102T065653Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:SAI KRISHNA GAJULA and Muhammad Javed
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

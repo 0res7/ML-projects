@@ -1,0 +1,88 @@
+(venv) saikrishna_gajula@HYDPCM122315LT ML-projects % https://jovian.ai/aakashns/python-sklearn-linear-regression
+zsh: no such file or directory: https://jovian.ai/aakashns/python-sklearn-linear-regression
+(venv) saikrishna_gajula@HYDPCM122315LT ML-projects % wget https://jovian.ai/aakashns/python-sklearn-linear-regression
+zsh: command not found: wget
+(venv) saikrishna_gajula@HYDPCM122315LT ML-projects % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+==> Checking for `sudo` access (which may request your password)...
+Password:
+Sorry, try again.
+Password:
+==> This script will install:
+/opt/homebrew/bin/brew
+/opt/homebrew/share/doc/homebrew
+/opt/homebrew/share/man/man1/brew.1
+/opt/homebrew/share/zsh/site-functions/_brew
+/opt/homebrew/etc/bash_completion.d/brew
+/opt/homebrew
+
+Press RETURN/ENTER to continue or any other key to abort:
+==> /usr/bin/sudo /usr/sbin/chown -R saikrishna_gajula:admin /opt/homebrew
+==> Downloading and installing Homebrew...
+remote: Enumerating objects: 1573, done.
+remote: Counting objects: 100% (1087/1087), done.
+remote: Compressing objects: 100% (380/380), done.
+remote: Total 1573 (delta 837), reused 874 (delta 688), pack-reused 486 (from 1)
+==> Updating Homebrew...
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> Installation successful!
+
+==> Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (nor will any be during this install run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run brew help to get started
+- Further documentation:
+    https://docs.brew.sh
+
+(venv) saikrishna_gajula@HYDPCM122315LT ML-projects % brew install wget
+
+==> Downloading https://ghcr.io/v2/homebrew/core/wget/manifests/1.24.5
+################################################################################################################################################################ 100.0%
+==> Fetching dependencies for wget: libunistring, gettext and libidn2
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/manifests/1.3
+################################################################################################################################################################ 100.0%
+==> Fetching libunistring
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:38e44e319bfe11ec892bc6451d86b687d990ea01b4810b5d8ad1f794d531d82f
+################################################################################################################################################################ 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/manifests/0.22.5-1
+################################################################################################################################################################ 100.0%
+==> Fetching gettext
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:7cf6084ae306256b1df18c8d75ba63abeccd5c605cfc8406dab8c09d98815bc1
+################################################################################################################################################################ 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/libidn2/manifests/2.3.7
+################################################################################################################################################################ 100.0%
+==> Fetching libidn2
+==> Downloading https://ghcr.io/v2/homebrew/core/libidn2/blobs/sha256:670f6ed3768acde8ce10b5dcfc88fef69cea994ff84491b253a5e818cd4f9a1b
+################################################################################################################################################################ 100.0%
+==> Fetching wget
+==> Downloading https://ghcr.io/v2/homebrew/core/wget/blobs/sha256:9befdad158e59763fb0622083974a6252878019702d8c961e1bec3a5f5305339
+################################################################################################################################################################ 100.0%
+==> Installing dependencies for wget: libunistring, gettext and libidn2
+==> Installing wget dependency: libunistring
+==> Downloading https://ghcr.io/v2/homebrew/core/libunistring/manifests/1.3
+Already downloaded: /Users/saikrishna_gajula/Library/Caches/Homebrew/downloads/a570da63bc1839c7e217f203abd54d4d873ebd6b99f6e88994d0e79e2ebe987c--libunistring-1.3.bottle_manifest.json
+==> Pouring libunistring--1.3.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libunistring/1.3: 59 files, 5.4MB
+==> Installing wget dependency: gettext
+==> Downloading https://ghcr.io/v2/homebrew/core/gettext/manifests/0.22.5-1
+Already downloaded: /Users/saikrishna_gajula/Library/Caches/Homebrew/downloads/6556ea282eab4408e8a5a2be54b73c40117a4c1821978c0d109b8204e4fe8f17--gettext-0.22.5-1.bottle_manifest.json
+==> Pouring gettext--0.22.5.arm64_sonoma.bottle.1.tar.gz
+🍺  /opt/homebrew/Cellar/gettext/0.22.5: 2,044 files, 21.7MB
+==> Installing wget dependency: libidn2
+==> Downloading https://ghcr.io/v2/homebrew/core/libidn2/manifests/2.3.7
+Already downloaded: /Users/saikrishna_gajula/Library/Caches/Homebrew/downloads/45d1d4d2930c4782bf53e761a1c0166cd8a40f4193ac8c44e86f0b6708e80354--libidn2-2.3.7.bottle_manifest.json
+==> Pouring libidn2--2.3.7.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libidn2/2.3.7: 81 files, 1MB
+==> Installing wget
+==> Pouring wget--1.24.5.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/wget/1.24.5: 92 files, 4.5MB
+==> Running `brew cleanup wget`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+(venv) saikrishna_gajula@HYDPCM122315LT ML-projects % 
