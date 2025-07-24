@@ -7,6 +7,18 @@
 * [Loan Repayment Prediction](#6-Loan-Repayment-Prediction)
 * [Predict Employee Turnover](#7-Predict-Employee-Turnover)
 * [Wine Quality Prediction](#8-Wine-Quality-Prediction)
+* [AI Room Booking Chatbot](#9-AI-Room-Booking-Chatbot)
+* [Brain Tumor Detection](#10-Brain-Tumor-Detection)
+* [Colorize Black & white images](#11-Colorize-Black--white-images)
+* [Distracted Driver Detection](#12-Distracted-Driver-Detection)
+* [Drowsiness detection](#13-Drowsiness-detection)
+* [Human Detection & Counting](#14-Human-Detection--Counting)
+* [Mechanisms Of Action (MoA) Prediction](#16-Mechanisms-Of-Action-(MoA)-Prediction)
+* [Medical Chatbot](#17-Medical-Chatbot)
+* [Predicting Property Maintenance Fines](#18-Predicting-Property-Maintenance-Fines)
+* [Research topic Prediction](#19-Research-topic-Prediction)
+* [TimeSeries Multi StoreSales prediction](#20-TimeSeries-Multi-StoreSales-prediction)
+* [emoji creator project](#21-emoji-creator-project)
 
 
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
@@ -88,3 +100,106 @@
 - The model best worked on this dataset is Random Forest Classifier with n_estimators=100.
 - **Accuracy achieved = 90.31%**
 ##   
+
+### 9. [AI Room Booking Chatbot](https://github.com/shsarv/Machine-Learning-Projects/tree/main/AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D)
+| [Demo](https://github.com/shsarv/Machine-Learning-Projects/blob/main/AI%20Room%20Booking%20Chatbot%20%5BIBM%20WATSON%5D/demo.gif) |
+|----|
+
+- This project is a chatbot that can be used to book a room in a hotel.
+- It is built using IBM Watson Assistant and IBM Cloud Functions.
+- The chatbot can be integrated with any website or application.
+- It can also be used to send an email notification to the user when a booking is made.
+##
+
+### 10. [Brain Tumor Detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/BRAIN%20TUMOR%20DETECTION%20%5BEND%202%20END%5D/app.py) |
+|----|
+
+- This project is a Flask web application for detecting brain tumors from MRI images using a deep learning model built with PyTorch.
+- Users can upload MRI images through the app, and the model will classify them as either tumor or non-tumor.
+- The goal of this project is to provide an intuitive interface for medical professionals to quickly identify potential brain tumors.
+##
+
+### 11. [Colorize Black & white images](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D/Colorize_Black_and_White_Image.ipynb) | [GUI Code](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Colorize%20Black%20%26%20white%20images%20%5BOPEN%20CV%5D/GUI.py) |
+|----|----|
+
+- This Deep Learning Project aims to provide colorizing black & white images with Python.
+- In image colorization, we take a black and white image as input and produce a colored image.
+- We will solve this project with OpenCV deep neural network.
+##
+
+### 12. [Distracted Driver Detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Distracted%20Driver%20Detection)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Distracted%20Driver%20Detection/Distrated%20Driver%20detection.ipynb) |
+|----|
+
+- In this competition you are given driver images, each taken in a car with a driver doing something in the car (texting, eating, talking on the phone, makeup, reaching behind, etc).
+- Your goal is to predict the likelihood of what the driver is doing in each picture.
+- The 10 classes to predict are: safe driving, texting - right, talking on the phone - right, texting - left, talking on the phone - left, operating the radio, drinking, reaching behind, hair and makeup, talking to passenger.
+##
+
+### 13. [Drowsiness detection](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Drowsiness%20detection%20%5BOPEN%20CV%5D)
+| [Python Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Drowsiness%20detection%20%5BOPEN%20CV%5D/drowsinessdetection.py) | [Model Training](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Drowsiness%20detection%20%5BOPEN%20CV%5D/model.py) |
+|----|----|
+
+- This project focuses on building a Driver Drowsiness Detection System that monitors a driver's eye status using a webcam and alerts them if they appear drowsy.
+- We utilize OpenCV for image capture and preprocessing, while a Convolutional Neural Network (CNN) model classifies whether the driver's eyes are 'Open' or 'Closed.'
+- If drowsiness is detected, an alarm is triggered to alert the driver.
+##
+
+### 14. [Human Detection & Counting](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D)
+| [Python Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Human%20Detection%20%26%20Counting%20Project%20%5BOPEN%20CV%5D/human-counting-project-code.py) |
+|----|
+
+- This project is used to detect and count the number of humans in a given video or image.
+- It uses OpenCV for image and video processing.
+##
+
+### 15. [Mechanisms Of Action (MoA) Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Mechanisms%20Of%20Action%20(MoA)%20Prediction/MOA.ipynb) |
+|----|
+
+- The goal is to develop an algorithm that automatically labels each case (in this case, sig_id) in the test set as one or more MoA classes.
+- Since drugs can have multiple MoA annotations, the task is formally a multi-label classification problem.
+##
+
+### 16. [Medical Chatbot](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D)
+| [Python Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Medical%20Chatbot%20%5BEND%202%20END%5D%20%5BNLP%5D/app.py) |
+|----|
+
+- This is a medical chatbot that can answer your medical queries.
+- It is built using Flask, PyTorch, NLTK, and Scikit-learn.
+##
+
+### 17. [Predicting Property Maintenance Fines](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Predicting%20Property%20Maintenance%20Fines)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Predicting%20Property%20Maintenance%20Fines/Predicting%20Property%20Maintainance%20Fines.ipynb) |
+|----|
+
+- This project is to predict whether a given blight ticket will be paid on time.
+- This is based on a data challenge from the Michigan Data Science Team (MDST).
+##
+
+### 18. [Research topic Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Research%20topic%20Prediction)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Research%20topic%20Prediction/Research-topic-Prediction.ipynb) |
+|----|
+
+- Given the abstract and title for a set of research articles, predict the topics for each article included in the test set.
+- A research article can possibly have more than 1 topic.
+- The research article abstracts and titles are sourced from the following 6 topics: Computer Science, Physics, Mathematics, Statistics, Quantitative Biology, Quantitative Finance.
+##
+
+### 19. [TimeSeries Multi StoreSales prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/TimeSeries%20Multi%20StoreSales%20prediction)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/TimeSeries%20Multi%20StoreSales%20prediction/Time%20Series%20Regression%20-%20Multi-Store%20Sales.ipynb) |
+|----|
+
+- In this you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company.
+- We are asking you to predict total sales for every product and store in the next month.
+##
+
+### 20. [emoji creator project](https://github.com/shsarv/Machine-Learning-Projects/tree/main/emoji%20creator%20project%20%5BOPEN%20CV%5D)
+| [GUI Script](https://github.com/shsarv/Machine-Learning-Projects/blob/main/emoji%20creator%20project%20%5BOPEN%20CV%5D/gui.py) | [Model Training](https://github.com/shsarv/Machine-Learning-Projects/blob/main/emoji%20creator%20project%20%5BOPEN%20CV%5D/train.py) |
+|----|----|
+
+- This project is a GUI-based application built using Tkinter that generates emojis based on facial emotions.
+- It detects the user's facial expressions in real time using the webcam, predicts emotions like happiness, sadness, anger, etc., and displays an appropriate emoji corresponding to the detected emotion.
+##
