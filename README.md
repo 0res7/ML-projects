@@ -15,41 +15,6 @@ Welcome to the **Machine Learning Projects Repository**! This collection encompa
 
 ---
 
-## Repository Architecture
-
-```mermaid
-graph TD
-    A[ML-projects Repository]
-    A --> B(Business Email Automation)
-    A --> C(BRAIN TUMOR DETECTION)
-    A --> D(Classification of Arrhythmia)
-    A --> E(Colorize Black & white images)
-    A --> F(Diabetes Prediction)
-    A --> G(Distracted Driver Detection)
-    A --> H(Drowsiness detection)
-    A --> I(Gender and age detection)
-    A --> J(Getting Admission in College Prediction)
-    A --> K(Heart Disease Prediction)
-    A --> L(Human Activity Detection)
-    A --> M(IPL Score Prediction)
-    A --> N(Iris Flower Classification)
-    A --> O(Loan Repayment Prediction)
-    A --> P(Mechanisms Of Action Prediction)
-    A --> Q(Medical Chatbot)
-    A --> R(Predicting Property Maintenance Fines)
-    A --> S(Research topic Prediction)
-    A --> T(Smile Selfie Capture Project)
-    A --> U(TimeSeries Multi StoreSales prediction)
-    A --> V(Wine Quality prediction)
-    A --> W{HiringChallenges}
-    W --> W1(water_potability)
-    W --> W2(triglyceride_prediction)
-    A --> X(AI Room Booking Chatbot)
-    A --> Y(...Other Projects)
-```
-
----
-
 ## Project List
 
 Here’s a detailed list of all projects included in this repository:
